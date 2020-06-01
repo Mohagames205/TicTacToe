@@ -1,0 +1,10 @@
+---
+name: TicTacToe
+version: 0.0.1
+main: mohagames\TicTacToe\Main
+api: 3.12.1
+
+commands:
+  tictactoe:
+    description: BASE COMMAND
+...
